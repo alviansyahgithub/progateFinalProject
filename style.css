@@ -325,7 +325,7 @@ span .fa-whatsapp:hover {
   transform: translate(-50%, -50%);
 }
 
-.person .persont-card .name {
+.person .person-card .name {
   z-index: 2;
   color: #555;
   position: absolute;
